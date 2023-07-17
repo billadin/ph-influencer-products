@@ -123,3 +123,19 @@ nav a:hover {
     margin-left: 0.5rem;
 }
 /* banner end */
+
+/* Brand banner */
+.brand-banner {
+    background-color: antiquewhite;
+    width: 77%;
+    margin: 0 auto;
+}
+
+.brand-img-container {
+    margin-top: 4rem;
+    padding: 2.5rem 0;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+/* Brand banner end */
