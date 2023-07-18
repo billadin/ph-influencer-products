@@ -297,6 +297,7 @@ footer p {
 
 /* Media queries */
 @media screen and (max-width: 576px) {
+    *,
     header,
     main,
     .banner-container, 
